@@ -1,6 +1,0 @@
-WebKitGTK+ is an open source web browser engine.
-
-This SlackBuild script requires icu4c 4.2 and libsoup 2.28.
-
-* icu4c:   <http://slackbuilds.org/repository/13.1/libraries/icu4c/>
-* libsoup: <http://github.com/antlechrist/libsoup>

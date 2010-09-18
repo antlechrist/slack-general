@@ -1,6 +1,0 @@
-Soup is an HTTP library implementation in C. It was originally part of
-a SOAP (Simple Object Access Protocol) implementation, but the SOAP code
-was later removed (and then later partially reimplemented...).
-
-This is a newer version than the official SlackBuild at slackbuilds.org.
-Make sure this is what you want.
